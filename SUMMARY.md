@@ -1,0 +1,15 @@
+# Table of contents
+
+* [Background](README.md)
+  * [Screen Scraping](background/screen-scraping.md)
+  * [Infrastructure as Code](background/infrastructure-as-code.md)
+  * [Communicating with Devices](background/communicating-with-devices.md)
+  * [Data Models](background/data-models.md)
+  * [Finally](background/finally.md)
+* [Ansible](ansible/README.md)
+  * [Describing Ansible](ansible/describing-ansible.md)
+  * [Playbooks](ansible/playbooks.md)
+  * [Gathering Facts](ansible/gathering-facts.md)
+  * [The hosts file](ansible/the-hosts-file.md)
+  * [Dynamic Inventory](ansible/dynamic-inventory.md)
+  * [Configuration Files](ansible/configuration-files.md)
